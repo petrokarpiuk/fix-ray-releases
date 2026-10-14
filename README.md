@@ -2,6 +2,8 @@
 
 FIX Ray is a desktop workspace for exploring FIX messages. Open logs or paste messages, follow orders, inspect fields and validation results, and query your data with SQL.
 
+[Visit the FIX Ray website](https://petrokarpiuk.github.io/fix-ray/)
+
 ## Download
 
 Current version: **1.0.0**.
