@@ -6,12 +6,12 @@ FIX Ray is a desktop workspace for exploring FIX messages. Open logs or paste me
 
 ## Download
 
-Current version: **1.0.0**.
+Current version: **1.0.0**. [View all releases](https://github.com/petrokarpiuk/fix-ray-releases/releases).
 
 | Platform | Requirements | Download | Checksum |
 | --- | --- | --- | --- |
-| macOS, Apple Silicon (arm64) | macOS **27.0.1 or newer** | [macOS ZIP, about 39 MB](https://github.com/petrokarpiuk/fix-ray-releases/raw/refs/heads/main/downloads/v1.0.0/fix-ray-1.0.0-macos-arm64.zip) | [SHA-256](https://github.com/petrokarpiuk/fix-ray-releases/raw/refs/heads/main/downloads/v1.0.0/fix-ray-1.0.0-macos-arm64.zip.sha256) |
-| Linux, x86_64 | Ubuntu **24.04+**, or a desktop with **glibc 2.39+** | [Linux tar.gz, about 62 MB](https://github.com/petrokarpiuk/fix-ray-releases/raw/refs/heads/main/downloads/v1.0.0/fix-ray-1.0.0-linux-x86_64.tar.gz) | [SHA-256](https://github.com/petrokarpiuk/fix-ray-releases/raw/refs/heads/main/downloads/v1.0.0/fix-ray-1.0.0-linux-x86_64.tar.gz.sha256) |
+| macOS, Apple Silicon (arm64) | macOS **27.0.1 or newer** | [macOS ZIP, about 39 MB](https://github.com/petrokarpiuk/fix-ray-releases/releases/download/v1.0.0/fix-ray-1.0.0-macos-arm64.zip) | [SHA-256](https://github.com/petrokarpiuk/fix-ray-releases/releases/download/v1.0.0/fix-ray-1.0.0-macos-arm64.zip.sha256) |
+| Linux, x86_64 | Ubuntu **24.04+**, or a desktop with **glibc 2.39+** | [Linux tar.gz, about 62 MB](https://github.com/petrokarpiuk/fix-ray-releases/releases/download/v1.0.0/fix-ray-1.0.0-linux-x86_64.tar.gz) | [SHA-256](https://github.com/petrokarpiuk/fix-ray-releases/releases/download/v1.0.0/fix-ray-1.0.0-linux-x86_64.tar.gz.sha256) |
 
 ## Install on macOS
 
